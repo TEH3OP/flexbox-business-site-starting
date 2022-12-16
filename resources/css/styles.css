@@ -58,6 +58,7 @@ main{
     margin: 80px auto 0;
     width: 100%;
     max-width: 1200px;
+    background-color: lightgray;
 }
 
 main .main-content{
@@ -74,7 +75,11 @@ main .main-content{
     
 }
 
-
+main h1{
+    margin-top: 1rem;
+    text-align: center;
+    font-size: 1.5rem;
+}
 
 main .project-examples {
     display: flex;
