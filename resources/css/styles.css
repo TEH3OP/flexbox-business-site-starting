@@ -85,10 +85,26 @@ main .project-examples {
     display: flex;
 }
 
+main .our-team {
+    display: flex;
+    justify-content: center;
+}
+
 main .project-examples figure{
     /* width: 50%; */
     padding: 1rem;
     text-align: center;
+}
+
+main .our-team figure{
+    /* width: 50%; */
+    padding: 1rem;
+    text-align: center;
+}
+
+main .our-team img{
+    height: 10rem;
+    width: auto;
 }
 
 @media only screen and (max-width:425px) {
