@@ -96,10 +96,21 @@ main .project-examples figure{
     text-align: center;
 }
 
+main .project-examples figcaption{
+    /* width: 50%; */
+    font-style: italic;
+    margin-bottom: 1rem;
+}
+
 main .our-team figure{
     /* width: 50%; */
     padding: 1rem;
     text-align: center;
+}
+
+main .our-team figcaption{
+    /* width: 50%; */
+    font-style: italic;
 }
 
 main .our-team img{
